@@ -22,3 +22,9 @@ cara pasang remote orang ke graph
 -git remote -v
 -graph
 
+------------------------------------------------------------------
+
+cara update remote
+
+-git fetch sandhikagalih
+-git graph
