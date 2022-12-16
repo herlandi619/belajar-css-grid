@@ -1,0 +1,24 @@
+cara multi remote ke akun orang
+
+-siapkan repository orang
+-klik fork
+-copy code html
+
+buka tempat gitbash 
+
+-git clone paste code html
+-git status
+
+pasang remote
+
+- git remote
+- copy code html pada akun orang
+- git add remote sandhikagalih paste code html orang
+-git remote -v
+
+cara pasang remote orang ke graph
+
+-git fetch sandhikagalih
+-git remote -v
+-graph
+
